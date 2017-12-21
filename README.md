@@ -5,6 +5,7 @@
 3. Explore `Assets` with Adobe Photoshop and Adobe Illustrator
 
 ## The 3 New Layout System
+The user has the control of its own experience by displaying  the content of the page in:
 ![z_buttons](https://user-images.githubusercontent.com/31135848/34262334-095b178c-e664-11e7-91db-0cc1f75a0712.png)
 - List (focus on the information of the venue)
 - Grid (focus on the images of the venue)
