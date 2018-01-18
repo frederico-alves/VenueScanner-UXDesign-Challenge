@@ -31,8 +31,6 @@ The user can:
 - locate  the avenue
 - click  for more information
 <br>
-<br>
-Design:<br>
 
 ![b_04_design_grid](https://user-images.githubusercontent.com/31135848/34262327-0029d32e-e664-11e7-9527-80e04a7dc66a.png)
 
@@ -41,8 +39,6 @@ Design:<br>
 ![b_03_preview_grid](https://user-images.githubusercontent.com/31135848/34262219-a2904c8e-e663-11e7-8728-484c23848b11.png)
 
 <br>
-<br>
-Wireframe:<br>
 
 ![grid](https://user-images.githubusercontent.com/31135848/34262210-99ab99c0-e663-11e7-8032-3cdbf2486bc7.png)
 
@@ -56,8 +52,6 @@ The user can:
 - save  the venue in its own shortlist
 - press button for more information
 <br>
-<br>
-Design:<br>
 
 ![c_04_design_map](https://user-images.githubusercontent.com/31135848/34262325-fff60d78-e663-11e7-999d-8cd8cce8bc0b.png)
 
@@ -70,7 +64,6 @@ Wireframe:<br>
 
 ![map](https://user-images.githubusercontent.com/31135848/34262230-b2e03810-e663-11e7-9b37-7116bd3979d2.png)
 
-<br>
 <br>
 
 
@@ -85,8 +78,6 @@ The user can:
 - locate  the avenue
 - click  for more information
 <br>
-<br>
-Design:<br>
 
 ![a_04_design_list](https://user-images.githubusercontent.com/31135848/34262326-000f4dba-e664-11e7-82d7-0ccfc2a520f8.png)
 
@@ -94,7 +85,6 @@ Design:<br>
 
 ![a_03_preview_list](https://user-images.githubusercontent.com/31135848/34262166-748f1afe-e663-11e7-81e0-129b20fdb59e.png)
 
-<br>
 <br>
 Wireframe:<br>
 
