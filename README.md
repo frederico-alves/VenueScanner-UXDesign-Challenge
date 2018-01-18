@@ -20,32 +20,6 @@ Efficient Way of Sort, customisable option by:
 - Highest Price;
 - Lowest Price.
 
-## List Details
-List layout system allows the user to absorb the most important written information in the minimum time possible. <br>
-The user can:
-- read  the essential description of the venue
-- preview a small picture of the venue
-- save  the venue in its own shortlist
-- estimate  its own budget
-- know  the highest capacity of the venue
-- locate  the avenue
-- click  for more information
-<br>
-<br>
-Design:<br>
-
-![a_04_design_list](https://user-images.githubusercontent.com/31135848/34262326-000f4dba-e664-11e7-82d7-0ccfc2a520f8.png)
-
-<br>
-
-![a_03_preview_list](https://user-images.githubusercontent.com/31135848/34262166-748f1afe-e663-11e7-81e0-129b20fdb59e.png)
-
-<br>
-<br>
-Wireframe:<br>
-
-![list](https://user-images.githubusercontent.com/31135848/34260975-7ad0f59e-e65f-11e7-8b61-dfb6e3813871.png)
-
 ## Grid Images
 Grid layout system allows the visual users to be surrounded with images. The focus is on the pictures. <br>
 The user can:
@@ -72,6 +46,8 @@ Wireframe:<br>
 
 ![grid](https://user-images.githubusercontent.com/31135848/34262210-99ab99c0-e663-11e7-8032-3cdbf2486bc7.png)
 
+<br>
+
 ## Map Locations
 Map layout system allows the users to explore the venues location on the map. <br>
 The user can:
@@ -86,17 +62,43 @@ Design:<br>
 ![c_04_design_map](https://user-images.githubusercontent.com/31135848/34262325-fff60d78-e663-11e7-999d-8cd8cce8bc0b.png)
 
 <br>
-<br>
-Wireframe:<br>
 
 ![c_03_preview_map](https://user-images.githubusercontent.com/31135848/34262238-b826517e-e663-11e7-8a65-d28a284a1baa.png)
 
 <br>
+Wireframe:<br>
 
 ![map](https://user-images.githubusercontent.com/31135848/34262230-b2e03810-e663-11e7-9b37-7116bd3979d2.png)
 
 <br>
 <br>
+
+
+## List Details
+List layout system allows the user to absorb the most important written information in the minimum time possible. <br>
+The user can:
+- read  the essential description of the venue
+- preview a small picture of the venue
+- save  the venue in its own shortlist
+- estimate  its own budget
+- know  the highest capacity of the venue
+- locate  the avenue
+- click  for more information
+<br>
+<br>
+Design:<br>
+
+![a_04_design_list](https://user-images.githubusercontent.com/31135848/34262326-000f4dba-e664-11e7-82d7-0ccfc2a520f8.png)
+
+<br>
+
+![a_03_preview_list](https://user-images.githubusercontent.com/31135848/34262166-748f1afe-e663-11e7-81e0-129b20fdb59e.png)
+
+<br>
+<br>
+Wireframe:<br>
+
+![list](https://user-images.githubusercontent.com/31135848/34260975-7ad0f59e-e65f-11e7-8b61-dfb6e3813871.png)
 
 
 <hr>
